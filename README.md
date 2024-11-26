@@ -93,6 +93,7 @@ ORDER BY
      salary_year_avg DESC;
 ```
 Here's the breakdown of the highest paying jobs and related skills for 2023:
+
 - **Most Compensated Skills:** The main skills that were consistently well compensated for and required by companies were SQL, Python, and Tableau 
 
 ![Well Paid Skills Jobs Require](assets\2_top_paying_job_skills.png)
@@ -119,6 +120,7 @@ ORDER BY
 LIMIT 5
 ```
 Here's the breakdown for the most in demand analyst skills in 2023:
+
 - **Skills Demanded:** So for this query, it quickly became evident that SQL dominates the market when it comes to the skills that companies are pushing for their possible employees to know, but Excel and Python are both shown to be important skills if someone wants to be well rounded.
 
 | Skill      | Demand Count |
@@ -153,7 +155,9 @@ ORDER BY
 LIMIT 20
 ```
 Here's the breakdown for the highest paid skills in 2023:
+
 -**Specialized Skill Success:** The query results show that specialized skills such as svn, twilio, and vmware were demanded the highest paid positions in the market.
+
 -**Future Objectives:** Another major insight that came from these results are that the base skills of SQL and Python etc... are essential, when it comes to progressing in this field specialization makes a huge difference.
 
 | Skill         | Salary Average (USD) |
@@ -207,7 +211,8 @@ ORDER BY
     demand_count DESC
 LIMIT 25;
 ```
-Here's the breakdown for optimal data/business analyst skills in 2023:
+Here's the breakdown for optimal data/business analyst skills in 2023: 
+
 -**Optimal Overall:** the skills like snowflake and hadoop commanded the most monetary compensation, even though their demand was lower than some of the more well known skills.
 
 -**In Depth Optimal Skills:** While snowflake was shown to have the highest average salary its demand was low, and SQL was shown to have the most demand by far with it's average salary being competitive among other skills. When it came to getting the best of both worlds Python and Tableau took the lead by having high demand and a great salary average
@@ -246,7 +251,9 @@ Here's the breakdown for optimal data/business analyst skills in 2023:
 Throughout the making of this project I've become assured that I've gained a firm foundation with SQL that will assist in propelling me forward:
 
 -**Complex Query Crafting:** I became adept in my usage of SQL by writing queries involving the merging of tables via JOIN functions, and by the usage of WITH clauses when needed.
+
 -**Data Aggregation:** Got comfortable with using GROUP BY and turned aggregate functions like COUNT(), AVG(), SUM() into code that I'm confident in using on a daily basis.
+
 -**Adeptly Applying Analytics:** I've increased my real-world puzzle solving skills through the knowledge acquired and insightful queries practiced. 
 
 # Conclusions
