@@ -209,6 +209,7 @@ LIMIT 25;
 ```
 Here's the breakdown for optimal data/business analyst skills in 2023:
 -**Optimal Overall:** the skills like snowflake and hadoop commanded the most monetary compensation, even though their demand was lower than some of the more well known skills.
+
 -**In Depth Optimal Skills:** While snowflake was shown to have the highest average salary its demand was low, and SQL was shown to have the most demand by far with it's average salary being competitive among other skills. When it came to getting the best of both worlds Python and Tableau took the lead by having high demand and a great salary average
 
 | Skill        | Demand Count | Salary Average (USD) |
