@@ -21,7 +21,7 @@ WHERE
 GROUP BY
     skills_dim.skill_id
 HAVING
-    COUNT(skills_job_dim.job_id) > 10
+    COUNT(skills_job_dim.job_id) > 15
 ORDER BY
     salary_avg DESC,
     demand_count DESC
